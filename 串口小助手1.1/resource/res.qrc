@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/scripts">
+        <file>scripts/gen_img.py</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../translations/lang_English.qm</file>
+        <file>../translations/lang_English.ts</file>
+        <file>../translations/lang_zh_CN.qm</file>
+        <file>../translations/lang_zh_CN.ts</file>
+        <file>../translations/lang_zh_TW.qm</file>
+        <file>../translations/lang_zh_TW.ts</file>
+    </qresource>
+</RCC>
